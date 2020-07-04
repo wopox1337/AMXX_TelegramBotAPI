@@ -1,5 +1,8 @@
 # [Telegram BOT API](https://core.telegram.org/api) wrapper library for [AMXModX](github.com/alliedmodders/amxmodx) plugins.
 
+Requirments:
+- [GoldSrc RestInPawn module](https://github.com/In-line/grip)
+
 Include file API: [TelegramBotAPI.inc](https://github.com/wopox1337/AMXX_TelegramBotAPI/blob/master/amxmodx/scripting/include/TelegramBotAPI.inc)
 
 * Create telegram bot: [LINK](https://core.telegram.org/bots#6-botfather)
